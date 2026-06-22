@@ -32,15 +32,15 @@ A Python-based quantitative finance project that analyzes stock portfolios using
 
 ### Efficient Frontier
 
-![Efficient Frontier](images/efficient_frontier.png)
+![Efficient Frontier](efficient_frontier.png)
 
 ### Monte Carlo Simulation
 
-![Monte Carlo](images/monte_carlo.png)
+![Monte Carlo Simulation](monte_carlo.png)
 
 ### Correlation Matrix
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](correlation_matrix.png)
 
 ## Author
 
